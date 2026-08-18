@@ -65,14 +65,8 @@ dotnet run --project CleanArchMvc.WebUI
 
 Após executar, abra o navegador em `https://localhost:5001` ou a URL mostrada no terminal.
 
-## Contribuições
-
-Este repositório é para estudo pessoal. Se quiser sugerir melhorias, abra uma issue descrevendo a proposta.
-
 ## Referências
 
 - Curso: Clean Architecture Essencial - ASP .NET Core com C# (Jose Carlos Macoratti)
 
 ---
-
-Arquivo criado como material de apoio ao curso; personalize conforme suas anotações e exercícios.
